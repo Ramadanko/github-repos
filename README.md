@@ -1,8 +1,10 @@
 # github-repos
 
-This template should help get you started developing with Vue 3 in Vite.
+This project is to list github repos by language, stars & date of creation
 
 ## Recommended IDE Setup
+
+[Webstorm](https://www.jetbrains.com/webstorm/)
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 
@@ -15,31 +17,26 @@ TypeScript cannot handle type information for `.vue` imports by default, so we r
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ## Project Setup
+First install [Nodejs](https://nodejs.org/en) 18.3 or higher
 
 ```sh
-npm install
+yarn install
 ```
 
 ### Compile and Hot-Reload for Development
 
 ```sh
-npm run dev
+yarn dev
 ```
 
 ### Type-Check, Compile and Minify for Production
 
 ```sh
-npm run build
-```
-
-### Run Unit Tests with [Vitest](https://vitest.dev/)
-
-```sh
-npm run test:unit
+yarn build
 ```
 
 ### Lint with [ESLint](https://eslint.org/)
 
 ```sh
-npm run lint
+yarn lint
 ```
