@@ -1,0 +1,23 @@
+export const programmingLanguages = [
+  'JavaScript',
+  'Python',
+  'Java',
+  'C#',
+  'C++',
+  'Ruby',
+  'PHP',
+  'Swift',
+  'Go',
+  'TypeScript',
+  'Kotlin',
+  'Rust',
+  'Dart',
+  'R',
+  'Perl',
+  'Scala',
+  'Objective-C',
+  'Haskell',
+  'Lua',
+  'Groovy',
+  'MATLAB'
+]
